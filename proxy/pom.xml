@@ -53,9 +53,9 @@
 	
 	<dependencies>
 		<dependency>
-			<groupId>com.cmaxinc.jaxbhelper</groupId>
+			<groupId>com.moss.jaxbhelper</groupId>
 			<artifactId>jaxb-helper</artifactId>
-			<version>0.0.2</version>
+			<version>0.0.3-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>

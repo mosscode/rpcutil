@@ -59,7 +59,7 @@ import javax.xml.ws.handler.soap.SOAPMessageContext;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import com.cmaxinc.jaxbhelper.JAXBHelper;
+import com.moss.jaxbhelper.JAXBHelper;
 import com.moss.rpcutil.proxy.ProxyProvider;
 
 public final class JAXWSProxyProvider implements ProxyProvider {
